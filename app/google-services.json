@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920275410012",
+    "project_id": "testproject-fa55f",
+    "storage_bucket": "testproject-fa55f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920275410012:android:4ba675e8194845630d1a99",
+        "android_client_info": {
+          "package_name": "com.example.stayfitwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920275410012-97df0acgsgegtjjfik4631h8akijaorp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLQorPCmRTrIRYdkcmSLux4ryqx_lqCXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920275410012-97df0acgsgegtjjfik4631h8akijaorp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
